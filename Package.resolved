@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CardKit",
+        "repositoryURL": "https://github.com/cameroneubank/card_kit.git",
+        "state": {
+          "branch": null,
+          "revision": "b3862ead9514c9dd0917c52d3b4e8ba8debd0fa3",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
